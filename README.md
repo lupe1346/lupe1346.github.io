@@ -1,1 +1,2 @@
-# lupe1346.github.io
+# ConnectNYC
+GWC Final Project 2018
